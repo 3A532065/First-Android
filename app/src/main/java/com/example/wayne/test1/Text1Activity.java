@@ -7,8 +7,6 @@ public class Text1Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        String test ="測試一";
-        int XXX =1234;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_text1);
     }
